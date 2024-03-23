@@ -1,0 +1,42 @@
+{
+  "name": "quoinventore",
+  "description": "Wallet address validator for Bitcoin and other Altcoins.",
+  "keywords": [
+    "btc",
+    "consequatur",
+    "litecoin",
+    "dogecoin",
+    "velit",
+    "blanditiis",
+    "wallet",
+    "validator",
+    "architecto",
+    "similique",
+    "nodejs"
+  ],
+  "version": "1.0.0",
+  "author": "EvieMetz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BellaSchumm/quoinventore.git"
+  },
+  "main": "src/wallet_address_validator",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "jssha": "2.3.1"
+  },
+  "devDependencies": {
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-mocha": "latest",
+    "grunt-simple-mocha": "latest",
+    "mocha": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/BellaSchumm/quoinventore.git/issues"
+  }
+}
